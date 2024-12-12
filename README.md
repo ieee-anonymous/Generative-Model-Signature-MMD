@@ -1,2 +1,1 @@
-# Generative-Model-Signature-MMD
-Temporary repo
+# IEEE temporary repo
